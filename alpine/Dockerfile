@@ -1,4 +1,4 @@
-FROM willhallonline/ansible:2.7-alpine-3.10
+FROM willhallonline/ansible:2.8-alpine-3.9
 
 RUN pip install pyvmomi
 
